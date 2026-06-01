@@ -20,7 +20,7 @@ Este proyecto aplica inferencia bayesiana y MCMC para estimar parámetros de mat
 - NGC 3198: M_d = 2.83e10 M_sol, R_d = 4.14 kpc, M_200 = 5.31e11 M_sol, c = 8.17
 
 ## Enlace al cuaderno en Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/proyecto_curvas_rotacion.ipynb)
+https://github.com/MiguelRomeroRodriguez17-cloud/Galactic-rotation-curves.git
 
 ## Autor
 Miguel Ángel Romero Rodríguez
