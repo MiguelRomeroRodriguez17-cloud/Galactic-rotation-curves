@@ -7,9 +7,9 @@ Inferencia bayesiana de parámetros de materia oscura a partir de curvas de rota
 Este proyecto aplica inferencia bayesiana y MCMC para estimar parámetros de materia oscura a partir de curvas de rotación galácticas, utilizando el modelo de disco estelar exponencial más un halo NFW.
 
 ## Contenido del repositorio
-- `proyecto_curvas_rotacion.ipynb`: Cuaderno de Jupyter/Colab con todo el código
-- `resultados_finales/`: Carpeta con figuras y tablas generadas
-- `documento_latex/`: Carpeta con el archivo .tex y las figuras para el informe
+- Cuaderno de Colab con todo el código
+- Carpeta con las figuras generadas
+- Carpeta con los resultados generados
 
 ## Requisitos para ejecutar el código
 - Python 3.8+
@@ -28,4 +28,3 @@ Cosmología, Universidad de Guanajuato
 
 ## Fechas de entrega
 - Primera entrega: 1 de junio de 2026
-- Entrega final: 8 de junio de 2023
