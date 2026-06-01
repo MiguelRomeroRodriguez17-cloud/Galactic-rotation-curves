@@ -25,8 +25,8 @@ Este proyecto aplica inferencia bayesiana y MCMC para estimar parámetros de mat
 https://github.com/MiguelRomeroRodriguez17-cloud/Galactic-rotation-curves.git
 
 ## Autor
-Miguel Ángel Romero Rodríguez
-Cosmología, División de Ciencias e Ingenierías, Universidad de Guanajuato
+- Miguel Ángel Romero Rodríguez
+- Cosmología, División de Ciencias e Ingenierías, Universidad de Guanajuato
 
 ## Fechas de entrega
 - Entrega: 1 de junio de 2026
